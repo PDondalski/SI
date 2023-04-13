@@ -16,7 +16,7 @@ LAB 2:
 
 https://drive.google.com/file/d/1tosAlvhlZixk4tD-Lzv0IgnYCTM6laxa/view
 
-LAB 3:
+LAB 3,4,5:
 ==========================
 
 https://drive.google.com/file/d/10pG_-_1ZEC3tIBoQ-t3Ror2DohKxM40g/view
