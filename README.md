@@ -20,3 +20,8 @@ LAB 3,4,5:
 ==========================
 
 https://drive.google.com/file/d/10pG_-_1ZEC3tIBoQ-t3Ror2DohKxM40g/view
+
+LAB 6:
+==========================
+
+https://drive.google.com/file/d/18NFdJqUeSTdWe1RpHN9xa_zxO-A9SJ2L/view
