@@ -26,7 +26,7 @@ LAB 6,7:
 
 https://drive.google.com/file/d/18NFdJqUeSTdWe1RpHN9xa_zxO-A9SJ2L/view
 
-Przykładowe kolokwium:
+Przykładowe kolokwium + zadania:
 ==========================
 
 https://drive.google.com/file/d/1t2LICqI1soPiA6o38vL9EVOmEGxaUGmr/view
